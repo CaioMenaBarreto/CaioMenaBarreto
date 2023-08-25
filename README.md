@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Mena+Barreto!;I'm+20+years+old;I'm+from+Brazil;I'm+a+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Mena+Barreto!;I'm+20+years+old;I'm+from+Brazil;I'm+a+fullstack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioMenaBarreto&bg_color=000000&color=2346d1&line=1d2ad7&point=266b82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
