@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioMenaBarreto&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Caio Mena Barreto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=white&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
