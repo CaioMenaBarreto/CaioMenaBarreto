@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioMenaBarreto&bg_color=000000&color=2346d1&line=1d2ad7&point=266b82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioMenaBarreto&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=073ebd&text_color=c9d1d9&bg_color=0d1117" alt="Caio Mena Barreto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioMenaBarreto&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Caio Mena Barreto github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=white&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
