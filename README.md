@@ -29,6 +29,8 @@
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=GIT&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Create+React+App](https://img.shields.io/badge/-Create+React+App-0D1117?style=for-the-badge&logo=Create+React+App&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117)&nbsp;
+![VSCODE](https://img.shields.io/badge/-VSCODE-0D1117?style=for-the-badge&logo=VSCODE&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
  ### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
