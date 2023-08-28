@@ -14,16 +14,19 @@
 <a href="https://www.linkedin.com/in/caio-lucas-pereira-mena-barreto-2b862a24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-  ### Main skills:
+  ### Front-end skills:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
- ### Technologies:
+ ## Back-end skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Cors](https://img.shields.io/badge/-Cors-0D1117?style=for-the-badge&logo=cors&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+ ### Technologies:
+
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=GIT&labelColor=0D1117&textColor=0D1117)&nbsp;
