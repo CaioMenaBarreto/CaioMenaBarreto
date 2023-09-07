@@ -32,6 +32,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=GIT&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GITHUB-0D1117?style=for-the-badge&logo=GITHUB&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Create+React+App](https://img.shields.io/badge/-Create+React+App-0D1117?style=for-the-badge&logo=Create+React+App&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![VSCODE](https://img.shields.io/badge/-VSCODE-0D1117?style=for-the-badge&logo=VSCODE&labelColor=0D1117&textColor=0D1117)&nbsp;
