@@ -35,6 +35,9 @@
 ![Create+React+App](https://img.shields.io/badge/-Create+React+App-0D1117?style=for-the-badge&logo=Create+React+App&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![VSCODE](https://img.shields.io/badge/-VSCODE-0D1117?style=for-the-badge&logo=VSCODE&labelColor=0D1117&textColor=0D1117)&nbsp;
+![VERCEL](https://img.shields.io/badge/-VERCEL-0D1117?style=for-the-badge&logo=VERCEL&labelColor=0D1117&textColor=0D1117)&nbsp;
+![RENDER](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=RENDER&labelColor=0D1117&textColor=0D1117)&nbsp;
+![ELEPHANTSQL](https://img.shields.io/badge/-ELEPHANTSQL-0D1117?style=for-the-badge&logo=ELEPHANTSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
  ## Databases:
