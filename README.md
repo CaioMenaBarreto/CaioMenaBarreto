@@ -40,6 +40,7 @@
 ![VERCEL](https://img.shields.io/badge/-VERCEL-0D1117?style=for-the-badge&logo=VERCEL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![RENDER](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=RENDER&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ELEPHANTSQL](https://img.shields.io/badge/-ELEPHANTSQL-0D1117?style=for-the-badge&logo=ELEPHANTSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
  ## Databases:
@@ -47,7 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Studying at this moment:
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
