@@ -28,6 +28,12 @@
 ![Cors](https://img.shields.io/badge/-Cors-0D1117?style=for-the-badge&logo=cors&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+## Tests:
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Integration+Tests](https://img.shields.io/badge/-Integration+Tests-0D1117?style=for-the-badge&logo=integration+Tests&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Unit+Tests](https://img.shields.io/badge/-Unit+Tests-0D1117?style=for-the-badge&logo=unit+Tests&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
  ## Technologies:
 
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -47,8 +53,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Studying at this moment:
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
