@@ -36,6 +36,10 @@
 ## Testing framework:
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+## Tests:
+![Unit+Tests](https://img.shields.io/badge/-Unit+Tests-0D1117?style=for-the-badge&logo=Unit+Tests&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Integration+Tests](https://img.shields.io/badge/-Integration+Tests-0D1117?style=for-the-badge&logo=Integration+Tests&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ## Databases:
 
  ### SQL:
