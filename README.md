@@ -9,11 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caio-barreto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
   ## Front-end skills:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -61,6 +56,13 @@
 ![VERCEL](https://img.shields.io/badge/-VERCEL-0D1117?style=for-the-badge&logo=VERCEL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![RENDER](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=RENDER&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ELEPHANTSQL](https://img.shields.io/badge/-ELEPHANTSQL-0D1117?style=for-the-badge&logo=ELEPHANTSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+## Contacts:
+<div align="center"> 
+<a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-barreto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
