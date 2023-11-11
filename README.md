@@ -1,20 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Mena+Barreto!;I'm+20+years+old;I'm+from+Brazil;I'm+a+fullstack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <div align="end">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=black&bg_color=white" />
 </div>
 
-## Contacts:
-<div display="flex" flex-direction="column">   
-<a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+ 
+- Gmail: <a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <div display="flex" flex-direction="column">   
 <a href="https://www.linkedin.com/in/caio-barreto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ 
+<br />
+<br />
+<br />
 
-  ##
+
   ### Front-end skills:
 <div align="flex-start">
 <table =>
