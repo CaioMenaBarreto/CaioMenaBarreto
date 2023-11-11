@@ -17,7 +17,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 
 ### 📊 Linguagens mais utilizadas
 <div align="start">  
-<img style="flex-grow:0; flex-shrink:0;" alt="Caio GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=false&title_color=073ebd&text_color=black&bg_color=white" />
 </div>
  
 <br />
