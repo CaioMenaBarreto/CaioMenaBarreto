@@ -15,17 +15,16 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 
 <br />
 
-### 📊 Github Status
+### 📊 Linguagens mais utilizadas
 <div align="start">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=false&title_color=073ebd&text_color=black&bg_color=white" />
+<img style="flex-grow:0; flex-shrink:0;" alt="Caio GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto" />
 </div>
  
 <br />
 <br />
-<br />
 
-
-  ### Front-end skills:
+## 🔨 Linguagens e ferramentas:
+  ### Front-end:
 <div align="flex-start">
 <table =>
   <tbody>
@@ -96,7 +95,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 
 
  ## 
- ### Back-end skills:
+ ### Back-end:
 <div align="flex-start">
 <table =>
   <tbody>
@@ -148,7 +147,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 </div>
 
 ## 
-### Databases:
+### Banco de dados:
 <div align="flex-start">
 <table =>
   <tbody>
@@ -177,7 +176,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 
 
 ## 
-### Technologies:
+### Tecnologias:
 
 <div align="flex-start">
 <table =>
