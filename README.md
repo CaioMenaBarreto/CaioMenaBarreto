@@ -2,14 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+Mena+Barreto!;I'm+20+years+old;I'm+from+Brazil;I'm+a+fullstack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioMenaBarreto&show_icons=true&count_private=true&hide_border=true&title_color=073ebd&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Caio Mena Barreto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=c9d1d9&bg_color=0d1117" />
+<div align="end">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=black&bg_color=white" />
 </div>
 
 ## Contacts:
-<div align="center"> 
+<div display="flex" flex-direction="column">   
 <a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+ <div display="flex" flex-direction="column">   
 <a href="https://www.linkedin.com/in/caio-barreto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
@@ -136,27 +137,149 @@
 </table>
 </div>
 
-## Databases:
+## 
+### Databases:
+<div align="flex-start">
+<table =>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          height="40"
+          alt="postgresql logo"
+        />
+        <img width="12" /> Postgresql
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
- ### SQL:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### noSQL:
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-## Technologies:
+## 
+### Technologies:
 
-![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=GIT&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GITHUB](https://img.shields.io/badge/-GITHUB-0D1117?style=for-the-badge&logo=GITHUB&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Create+React+App](https://img.shields.io/badge/-Create+React+App-0D1117?style=for-the-badge&logo=Create+React+App&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=Vite&labelColor=0D1117&textColor=0D1117)&nbsp;
-![VSCODE](https://img.shields.io/badge/-VSCODE-0D1117?style=for-the-badge&logo=VSCODE&labelColor=0D1117&textColor=0D1117)&nbsp;
-![VERCEL](https://img.shields.io/badge/-VERCEL-0D1117?style=for-the-badge&logo=VERCEL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![RENDER](https://img.shields.io/badge/-RENDER-0D1117?style=for-the-badge&logo=RENDER&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ELEPHANTSQL](https://img.shields.io/badge/-ELEPHANTSQL-0D1117?style=for-the-badge&logo=ELEPHANTSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div align="flex-start">
+<table =>
+  <tbody>
+  <tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+          height="40"
+          alt="webpack logo"
+        />
+        <img width="12" /> Webpack
+      </td>
+      <td>
+        <img
+          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/babel/babel-original.svg"
+          alt="babel"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Babel
+      </td>
+       <td>
+        <img
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/env.png"
+          height="40"
+          alt="notion logo"
+        />
+        <img width="12" /> .ENV
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          height="40"
+          alt="vscode logo"
+        />
+        <img width="12" /> VS Code
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+    </tr>
+    <tr>
+       <td>
+        <img
+          src="https://skillicons.dev/icons?i=github"
+          height="40"
+          alt="github logo"
+        />
+        <img width="12" /> GitHub
+      </td>
+        <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+          height="40"
+          alt="jest logo"
+        />
+        <img width="12" /> Trello
+      </td>
+        <td>
+        <img
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/notion.png"
+          height="40"
+          alt="notion logo"
+        />
+        <img width="12" /> Notion
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=linux"
+          height="40"
+          alt="linux logo"
+        />
+        <img width="12" /> Linux
+      </td>
+      <td>
+        <img
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/terminal.png?raw=true"
+          alt="nginx"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> Terminal
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/vercel.jpg?raw=true"
+          height="40"
+          alt="amazonwebservices logo"
+        />
+        <img width="12" /> Vercel
+      </td>
+      <td>
+        <img
+          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"?raw=true"
+          height="40"
+          alt="amazonwebservices logo"
+        />
+        <img width="12" /> Vercel
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 <div align="center">
