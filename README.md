@@ -14,7 +14,7 @@
  </div>
 
   ## Front-end skills:
-<div align="center">
+<div align="flex-start">
 <table =>
   <tbody>
   <tr>
