@@ -1,16 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
 
+## Hey 👋, eu sou o Caio!
+
+Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologia 🚀. Sempre preparado para enfrentar desafios e sedento por conhecimento 💻. Venha ver um pouco mais sobre o meu trabalho! 🛠️
+<br />
+<br />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<div align="end">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=true&title_color=073ebd&text_color=black&bg_color=white" />
-</div>
 
- 
-- Gmail: <a href = "mailto:clpmb2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <div display="flex" flex-direction="column">   
-<a href="https://www.linkedin.com/in/caio-barreto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+### 🧐 Mais sobre mim:
+- 🌱 &nbsp; Atualmente aprendendo Docker e Nest.js
+- 👨🏻‍💻 &nbsp; Voce pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
+- 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia, estou feliz em ajudar
+- 📫 Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
+- 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1HsIwLOinNXiRYIUVllM-nRzxk3_mk80X/view?usp=sharing)
+
+<br />
+<div align="start">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=false&title_color=073ebd&text_color=black&bg_color=white" />
+</div>
  
 <br />
 <br />
