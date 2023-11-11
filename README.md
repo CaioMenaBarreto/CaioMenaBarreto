@@ -12,7 +12,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 - 💬 Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
 - 📫 Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
 - 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1HsIwLOinNXiRYIUVllM-nRzxk3_mk80X/view?usp=sharing)
-
+<br />
 
 ### 📊 Linguagens mais utilizadas
 <div align="start">  
