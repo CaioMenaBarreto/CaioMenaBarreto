@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=header"/>
-
 ## Hey 👋, eu sou o Caio!
 
 Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologia 🚀. Sempre preparado para enfrentar desafios e sedento por conhecimento 💻. Venha ver um pouco mais sobre o meu trabalho! 🛠️
@@ -11,11 +9,13 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 ### 🧐 Mais sobre mim:
 - 🌱 &nbsp; Atualmente aprendendo Docker e Nest.js
 - 👨🏻‍💻 &nbsp; Voce pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
-- 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia, estou feliz em ajudar
+- 💬 Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
 - 📫 Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
 - 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1HsIwLOinNXiRYIUVllM-nRzxk3_mk80X/view?usp=sharing)
 
 <br />
+
+### 📊 Github Status
 <div align="start">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMenaBarreto&layout=compact&hide_border=false&title_color=073ebd&text_color=black&bg_color=white" />
 </div>
@@ -297,5 +297,3 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CaioMenaBarreto}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=073ebd&height=120&section=footer"/>
