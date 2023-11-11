@@ -4,7 +4,7 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" margin-top="150px"/>
 
 ### 🧐 Mais sobre mim:
 - 🌱 &nbsp; Atualmente aprendendo Docker e Nest.js
@@ -13,7 +13,6 @@ Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologi
 - 📫 Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
 - 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1HsIwLOinNXiRYIUVllM-nRzxk3_mk80X/view?usp=sharing)
 
-<br />
 
 ### 📊 Linguagens mais utilizadas
 <div align="start">  
