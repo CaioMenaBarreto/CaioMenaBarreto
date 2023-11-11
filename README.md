@@ -1,16 +1,16 @@
 ## Hey 👋, eu sou o Caio!
 
-Sou um desenvolvedor Full Stack que adora explorar novos horizontes na tecnologia 🚀. Sempre preparado para enfrentar desafios e sedento por conhecimento 💻. Venha ver um pouco mais sobre o meu trabalho! 🛠️
+Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologia 🚀. Sempre preparado para enfrentar desafios e sedento por conhecimento 💻. Venha ver um pouco mais sobre o meu trabalho! 🛠️
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" margin-top="150px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 Mais sobre mim:
 - 🌱 &nbsp; Atualmente aprendendo Docker e Nest.js
-- 👨🏻‍💻 &nbsp; Voce pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
-- 💬 Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
-- 📫 Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
+- 👨🏻‍💻 &nbsp; Você pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
+- 💬 &nbsp; Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
+- 📫 &nbsp; Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
 - 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1HsIwLOinNXiRYIUVllM-nRzxk3_mk80X/view?usp=sharing)
 <br />
 
