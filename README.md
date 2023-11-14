@@ -283,7 +283,7 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
           height="40"
           alt="amazonwebservices logo"
         />
-        <img width="12" /> Vercel
+        <img width="12" /> npm
       </td>
     </tr>
   </tbody>
