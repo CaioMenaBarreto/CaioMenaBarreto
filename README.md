@@ -7,7 +7,7 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 Mais sobre mim:
-- 🌱 &nbsp; Atualmente aprendendo Docker e Nest.js
+- 🌱 &nbsp; Atualmente aprendendo Java e Redis.
 - 👨🏻‍💻 &nbsp; Você pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
 - 💬 &nbsp; Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
 - 📫 &nbsp; Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
@@ -124,6 +124,11 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
         />
         <img width="12" /> Express
       </td>
+      <td style="border:1px solid #30363d;" align="left" dir="row">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+            alt="nestjs" height="28" width="28" />
+           NestJS
+      </td>
        <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -183,6 +188,11 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
   <tbody>
   <tr>
     <tr>
+      <td style="border:1px solid #30363d;" align="left" dir="row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28"
+            alt="docker logo" />
+           Docker
+      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
