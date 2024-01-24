@@ -11,7 +11,7 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
 - 👨🏻‍💻 &nbsp; Você pode ver alguns dos meus projetos aqui 👉 [Github](https://github.com/CaioMenaBarreto?tab=repositories)
 - 💬 &nbsp; Me pergunte algo relacionado à tecnologia, estou feliz em ajudar
 - 📫 &nbsp; Fique à vontade para me contatar no [LinkedIn](https://www.linkedin.com/in/caio-barreto-dev/)
-- 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1MAgVALcJLU9TjLwiObtQA7wj8u82PLLY/view?usp=sharing)
+- 📝 &nbsp; Dê uma olhada no meu [currículo](https://drive.google.com/file/d/1FbLMV1yxdM3Di0KY-eHc4B-qczzIFXiV/view?usp=sharing)
 
 <br />
 
