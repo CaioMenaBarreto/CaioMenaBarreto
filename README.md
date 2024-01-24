@@ -118,6 +118,14 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
       </td>
       <td>
         <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          height="40"
+          alt="Java logo"
+        />
+        <img width="12" /> Java
+      </td>
+      <td>
+        <img
           src="https://skillicons.dev/icons?i=express"
           height="40"
           alt="express logo"
@@ -172,6 +180,11 @@ Sou um desenvolvedor Full-Stack que adora explorar novos horizontes na tecnologi
           alt="mongodb logo"
         />
         <img width="12" /> MongoDB
+      </td>
+      <td style="border:1px solid #30363d;" align="left" dir="row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="28" width="28"
+            alt="redis logo" />
+           Redis
       </td>
     </tr>
   </tbody>
